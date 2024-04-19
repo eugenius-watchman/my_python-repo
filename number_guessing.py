@@ -1,4 +1,7 @@
 # Generate random number
+import random
+
+
 secret = random.randint(1, 50)
 
 # Set guess to zero
